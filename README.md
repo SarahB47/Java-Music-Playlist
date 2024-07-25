@@ -1,1 +1,1 @@
-# Java-Music-Playlist
+This Java-based Music Playlist application was developed as part of the DSC30 course at UCSD. The project allows users to create, manage, and interact with music playlists. It demonstrates core concepts in Java programming and data structures, showcasing functionalities such as adding, removing, and sorting tracks.
